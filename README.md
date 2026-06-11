@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Executive Summary
+## Executive Summary
 
 **myCloud** is an advanced, distributed personal cloud platform engineered to provide seamless, secure, and scalable file management. Acting as a core component of the broader **mySphere** ecosystem, myCloud solves the limitations of traditional, centralized storage by introducing a node-based architecture where users can link private storage nodes to a unified control plane.
 
@@ -18,7 +18,7 @@ Designed with a focus on real-time synchronization, enterprise-grade security, a
 
 ---
 
-## ✨ Project Highlights
+## Project Highlights
 
 - **Distributed Storage Architecture:** Dynamic routing between a central control plane and user-hosted storage nodes.
 - **Cross-Platform Ecosystem:** Support for Web, Desktop (CustomTkinter/Python CLI), and upcoming Mobile/Desktop Wrappers (Electron/Capacitor).
@@ -31,7 +31,7 @@ Designed with a focus on real-time synchronization, enterprise-grade security, a
 
 ---
 
-## 🧠 Overview
+## Overview
 
 ### What myCloud Does
 myCloud provides unified access for file uploads, hierarchical organization, rich media previews, secure sharing, and stash workflows. It acts as the brain that coordinates data across various storage environments.
@@ -52,7 +52,7 @@ Unlike traditional platforms, myCloud features a **"Smart Relay"** distributed n
 
 ---
 
-## 👨‍💻 My Contributions
+## My Contributions
 
 As the **Founder, System Architect, Backend Engineer, Infrastructure Engineer, and Product Developer**, I successfully led the end-to-end lifecycle of myCloud:
 
@@ -66,7 +66,7 @@ As the **Founder, System Architect, Backend Engineer, Infrastructure Engineer, a
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 The architecture relies on a central **Control Plane** that manages identity, metadata, and security, while connected **Storage Nodes** handle the heavy lifting of file I/O operations.
 
@@ -128,7 +128,7 @@ graph TD
 
 ---
 
-## 🌟 Core Features
+## Core Features
 
 ### Distributed Personal Cloud Infrastructure
 A highly scalable storage engine where users can connect private hardware to expand their cloud capacity seamlessly.
@@ -161,7 +161,7 @@ Incremental file synchronization scripts for continuous delivery without downtim
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 | Category | Technologies |
 | --- | --- |
@@ -177,7 +177,7 @@ Incremental file synchronization scripts for continuous delivery without downtim
 
 ---
 
-## ⚡ Engineering Challenges
+## Engineering Challenges
 
 Building myCloud involved solving several complex distributed system problems:
 
@@ -190,7 +190,7 @@ Building myCloud involved solving several complex distributed system problems:
 
 ---
 
-## 🖼 Screenshots & Visuals
+## Screenshots & Visuals
 
 *(Visual representations of the mySphere and myCloud ecosystem)*
 
@@ -204,7 +204,7 @@ Building myCloud involved solving several complex distributed system problems:
 
 ---
 
-## 🛡 Security Considerations
+## Security Considerations
 
 Security is a foundational pillar of myCloud. Key principles include:
 
@@ -218,13 +218,13 @@ Security is a foundational pillar of myCloud. Key principles include:
 
 ---
 
-## 🌐 Product Ecosystem
+## Product Ecosystem
 
 myCloud is not just a standalone product; it is the data backbone of the **mySphere** ecosystem. Future integrations will allow other mySphere applications to utilize myCloud as a unified storage layer, creating a cohesive, Apple-like ecosystem experience where data flows securely across all user tools.
 
 ---
 
-## 🚀 Deployment & Infrastructure
+## Deployment & Infrastructure
 
 The application runs in a highly optimized production environment:
 - **Cloud Hosting:** Deployed on Oracle Cloud Infrastructure for high availability.
@@ -234,7 +234,7 @@ The application runs in a highly optimized production environment:
 
 ---
 
-## 📈 Lessons Learned
+## Lessons Learned
 
 - **Distributed Architecture:** Learned the critical importance of eventual consistency and network partition tolerance when building the node relay system.
 - **Security in Depth:** Mastered the nuances of secure cookie handling, CORS policies with WebSockets, and preventing directory traversal attacks during file uploads.
@@ -243,7 +243,7 @@ The application runs in a highly optimized production environment:
 
 ---
 
-## 🛣 Future Roadmap
+## Future Roadmap
 
 Based on current functionality and active development (`future_plans.txt`), the roadmap includes:
 
@@ -255,7 +255,7 @@ Based on current functionality and active development (`future_plans.txt`), the 
 
 ---
 
-## 🔒 Repository Scope
+## Repository Scope
 
 > **IMPORTANT NOTICE:** 
 > This repository is intended exclusively as a **project showcase and portfolio piece** for recruiters, researchers, and engineers. 
@@ -264,7 +264,7 @@ Based on current functionality and active development (`future_plans.txt`), the 
 
 ---
 
-## 📬 Contact & Links
+## Contact & Links
 
 - **Live Platform:** [cloud.mysphere.co.in](https://cloud.mysphere.co.in)
 - **Ecosystem Hub:** [mysphere.co.in](https://mysphere.co.in)
