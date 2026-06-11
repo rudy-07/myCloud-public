@@ -269,7 +269,7 @@ Based on current functionality and active development (`future_plans.txt`), the 
 - **Live Platform:** [cloud.mysphere.co.in](https://cloud.mysphere.co.in)
 - **Ecosystem Hub:** [mysphere.co.in](https://mysphere.co.in)
 - **GitHub:** [github.com/rudy-07](https://github.com/rudy-07)
-- **LinkedIn:** [My LinkedIn Profile](#) *(Contact me for the actual link)*
+- **LinkedIn:** [linkedin.com/in/rudransh-shekhar](https://www.linkedin.com/in/rudransh-shekhar/)
 
 <div align="center">
   <p>Built with passion and engineering rigor. © 2026</p>
