@@ -200,8 +200,6 @@ Building myCloud involved solving several complex distributed system problems:
   <p><em>The myCloud and mySphere brand identities representing unified, secure ecosystems.</em></p>
 </div>
 
-> **Note:** Internal UI screenshots and dashboard views are kept private to protect proprietary layout designs and system architecture.
-
 ---
 
 ## Security Considerations
@@ -234,15 +232,6 @@ The application runs in a highly optimized production environment:
 
 ---
 
-## Lessons Learned
-
-- **Distributed Architecture:** Learned the critical importance of eventual consistency and network partition tolerance when building the node relay system.
-- **Security in Depth:** Mastered the nuances of secure cookie handling, CORS policies with WebSockets, and preventing directory traversal attacks during file uploads.
-- **Product Engineering:** Discovered that progressive enhancement (e.g., adding PWA Service Workers) massively improves user retention by masking network latency.
-- **Infrastructure:** Gained deep expertise in Linux system administration, process management, and optimizing WSGI servers for asynchronous I/O.
-
----
-
 ## Future Roadmap
 
 Based on current functionality and active development (`future_plans.txt`), the roadmap includes:
@@ -272,5 +261,5 @@ Based on current functionality and active development (`future_plans.txt`), the 
 - **LinkedIn:** [linkedin.com/in/rudransh-shekhar](https://www.linkedin.com/in/rudransh-shekhar/)
 
 <div align="center">
-  <p>Built with passion and engineering rigor. © 2026</p>
+  <p>Built with passion and engineering. © 2026</p>
 </div>
