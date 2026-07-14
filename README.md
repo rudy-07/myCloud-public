@@ -222,11 +222,17 @@ To empower developers and power users, the myCloud ecosystem includes official, 
 
 ### myCloud CLI (`mycloudctl`)
 A beautiful, high-performance command-line interface for terminal-driven file management, stash operations, and node administration.
+```bash
+pip install mycloudctl
+```
 - **PyPI:** [mycloudctl](https://pypi.org/project/mycloudctl/)
 - **Repository:** [github.com/rudy-07/mycloudctl](https://github.com/rudy-07/mycloudctl)
 
 ### myCloud Python SDK (`mycloud-sdk`)
 A robust, fully-featured, and type-safe Python SDK offering both synchronous and asynchronous (asyncio) clients for building custom integrations.
+```bash
+pip install mycloud-sdk
+```
 - **PyPI:** [mycloud-sdk](https://pypi.org/project/mycloud-sdk/)
 - **Repository:** [github.com/rudy-07/mycloud-sdk](https://github.com/rudy-07/mycloud-sdk)
 
