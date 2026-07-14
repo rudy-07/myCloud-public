@@ -216,6 +216,22 @@ Security is a foundational pillar of myCloud. Key principles include:
 
 ---
 
+## Official Tools & Ecosystem
+
+To empower developers and power users, the myCloud ecosystem includes official, highly-optimized tools available on PyPI.
+
+### myCloud CLI (`mycloudctl`)
+A beautiful, high-performance command-line interface for terminal-driven file management, stash operations, and node administration.
+- **PyPI:** [mycloudctl](https://pypi.org/project/mycloudctl/)
+- **Repository:** [github.com/rudy-07/mycloudctl](https://github.com/rudy-07/mycloudctl)
+
+### myCloud Python SDK (`mycloud-sdk`)
+A robust, fully-featured, and type-safe Python SDK offering both synchronous and asynchronous (asyncio) clients for building custom integrations.
+- **PyPI:** [mycloud-sdk](https://pypi.org/project/mycloud-sdk/)
+- **Repository:** [github.com/rudy-07/mycloud-sdk](https://github.com/rudy-07/mycloud-sdk)
+
+---
+
 ## Product Ecosystem
 
 myCloud is not just a standalone product; it is the data backbone of the **mySphere** ecosystem. Future integrations will allow other mySphere applications to utilize myCloud as a unified storage layer, creating a cohesive, Apple-like ecosystem experience where data flows securely across all user tools.
@@ -255,10 +271,12 @@ Based on current functionality and active development (`future_plans.txt`), the 
 
 ## Contact & Links
 
+- **Email:** kanhaiffco2007@gmail.com
+- **LinkedIn:** [linkedin.com/in/rudransh-shekhar](https://linkedin.com/in/rudransh-shekhar)
+- **Portfolio:** [rudransh-shekhar.netlify.app](https://rudransh-shekhar.netlify.app)
 - **Live Platform:** [cloud.mysphere.co.in](https://cloud.mysphere.co.in)
 - **Ecosystem Hub:** [mysphere.co.in](https://mysphere.co.in)
 - **GitHub:** [github.com/rudy-07](https://github.com/rudy-07)
-- **LinkedIn:** [linkedin.com/in/rudransh-shekhar](https://www.linkedin.com/in/rudransh-shekhar/)
 
 <div align="center">
   <p>Built with passion and engineering. © 2026</p>
