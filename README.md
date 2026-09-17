@@ -21,7 +21,7 @@ Designed with a focus on real-time synchronization, enterprise-grade security, a
 ## Project Highlights
 
 - **Distributed Storage Architecture:** Dynamic routing between a central control plane and user-hosted storage nodes.
-- **Cross-Platform Ecosystem:** Support for Web, Desktop (CustomTkinter/Python CLI), and upcoming Mobile/Desktop Wrappers (Electron/Capacitor).
+- **Cross-Platform Ecosystem:** Support for Web (PWA), Desktop (Native Windows Electron app & Node Console client), Mobile (Android APK), and Developer CLI/SDK.
 - **Real-Time Synchronization:** Event-driven architecture powered by Socket.IO for live file transfer statuses and node coordination.
 - **Secure Authentication:** OAuth integration (Google/GitHub), 2FA capabilities, and rigorous session management.
 - **Cloud Infrastructure:** Hosted on Oracle Cloud Infrastructure (OCI) with a robust Nginx/Gunicorn/Systemd reverse-proxy setup.
@@ -48,7 +48,7 @@ Power users, privacy advocates, and teams requiring a customizable, secure file 
 - **Data Sovereignty:** The user decides where the data lives.
 
 ### Key Differentiators
-Unlike traditional platforms, myCloud features a **"Smart Relay"** distributed node system, a unique **Stash** workflow for temporary file lifecycle management, and a deeply integrated real-time monitoring suite.
+Unlike traditional platforms, myCloud features a distributed storage node architecture, a unique **Stash** workflow for temporary file lifecycle management, and a deeply integrated real-time monitoring suite.
 
 ---
 
@@ -73,9 +73,9 @@ The architecture relies on a central **Control Plane** that manages identity, me
 ```mermaid
 graph TD
     subgraph "Client Ecosystem"
-        W[Web Application]
-        D[Desktop Node GUI]
-        M[Mobile/Desktop Wrappers]
+        W[Web Application - PWA]
+        D[Desktop App & Node Console]
+        M[Android Mobile App]
     end
 
     subgraph "Infrastructure Layer"
@@ -151,7 +151,7 @@ Instant push notifications within the app for shared file events, storage node s
 Live, progressive search capabilities across all files and folders with context-aware results.
 
 ### Cross-Platform Access
-A beautiful, responsive Progressive Web App (PWA) with offline capabilities, alongside native desktop utility clients.
+A responsive Progressive Web App (PWA) with offline capabilities, alongside native Windows Desktop (Electron) and Node Console apps, an Android APK, and developer CLI/SDK tools.
 
 ### Monitoring & Observability
 An integrated admin dashboard visualizing real-time CPU/RAM usage, Nginx/Gunicorn service health, and user product analytics.
@@ -172,8 +172,8 @@ Incremental file synchronization scripts for continuous delivery without downtim
 | **Deployment** | Nginx, Gunicorn, PowerShell/Bash Automation |
 | **Security** | Authlib, itsdangerous, CSRF Middleware |
 | **Frontend/Web** | HTML5, CSS3, Vanilla JS, Jinja2, Service Workers |
-| **Desktop Technologies** | CustomTkinter, Tkinter, PyInstaller |
-| **Mobile Technologies** | Electron, Capacitor (Roadmap) |
+| **Desktop Technologies** | Electron, Node.js, CustomTkinter, PyInstaller |
+| **Mobile Technologies** | Android APK (Capacitor/Native) |
 
 ---
 
